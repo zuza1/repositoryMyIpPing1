@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/zuza1/repositoryMyIpPing1" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zuza1/repositoryMyIpPing1.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Baza\111\IDEA\ucheba\" />
